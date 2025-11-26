@@ -85,7 +85,7 @@ A text-based AI clone that simulates personalized responses from user-provided d
 - 📱 **Phone:** +91 6366381222  
 - 📍 **Location:** Bengaluru, India  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/prakrit-mohanty-2b8985291/  
-- 💼 **Portfolio / GitHub Pages:** *(Add your GitHub Pages link here)*
+- 💼 **Portfolio / GitHub Pages:** https://9rakrit.github.io/prakritmohanty.github.io 
 
 ---
 
